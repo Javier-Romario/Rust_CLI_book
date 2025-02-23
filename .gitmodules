@@ -1,6 +1,6 @@
 [submodule "hello_world"]
-	path = hello_world
-	url = ./hello_world/
+	path = hello_world_rust_cli
+	url = https://github.com/Javier-Romario/hello_world_rust_cli
 [submodule "echor"]
 	path = echor
 	url = https://github.com/Javier-Romario/echor
