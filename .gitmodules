@@ -3,4 +3,4 @@
 	url = ./hello_world/
 [submodule "echor"]
 	path = echor
-	url = ./echor/
+	url = https://github.com/Javier-Romario/echor
